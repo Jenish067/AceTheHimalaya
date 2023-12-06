@@ -1,0 +1,18 @@
+.main_container{
+  display: flex;
+  flex-direction: column;
+}
+
+.card_styling{
+  width: 800px
+}
+
+.card_styling_secondary{
+  width: 18rem;
+}
+
+.img_column{
+  height: 300px;
+  width: 100%;
+}
+
